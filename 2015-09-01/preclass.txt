@@ -18,6 +18,9 @@ with questions for class!
     with p stages.  What is the speedup over serial execution of the
     same tasks?
 
+    (p-1) + t
+
+
 4.  Consider the following list of tasks (assume they can't be pipelined):
 
       compile GCC (1 hr)
